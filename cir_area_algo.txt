@@ -1,0 +1,28 @@
+// Algorítmo Desenvolvido para descobrir a área de um círculo
+
+- Cálculo utilizado para descobrir:
+        
+        A = pi x r2 = valor
+
+- Constantes: 
+    - PI = 3.14
+
+
+- Variáveis: 
+    - Área 
+    - Raio 
+    - Raio(ao quadrado)
+
+- Entradas:
+    - Raio
+
+- Processamentos: 
+    - 1
+        Descobrir o valor do raio ao quadrado
+    - 2
+        Calcular o valor de A = pi x r2 = valor
+
+- Saída:
+    - Valor do Raio
+    - Valor do Raio ao quadrado
+    - Valor total da área
