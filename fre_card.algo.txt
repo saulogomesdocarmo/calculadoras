@@ -1,0 +1,18 @@
+// Algorítmo para medir a Frequência Cardíca máxima utilizando a fórmula de Tanaka
+
+- Cálculo utilizado:
+    208 - (0,7 x idade)
+    208 - (0,7 * idade)
+
+- Variáveis:
+    idade
+    frequencia
+
+Entrada:
+    idade
+
+Processamento: 
+    208 - (0,7 * idade) = resultado
+
+Saída:
+    - Resultado
