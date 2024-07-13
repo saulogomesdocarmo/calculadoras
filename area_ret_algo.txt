@@ -1,0 +1,22 @@
+// Algorítmo Para de o Perímetro do Retângulo
+
+- Cálculo para descobrir o perímetro:
+    P = a + a + l + l ou
+    P = (a + b) * 2
+
+- Variáveis:
+    - altura
+    - largura
+    - perímetro
+
+- Entradas:
+    - largura
+    - altura
+
+- Prcedimento:
+    Cálculo :
+        (altura + largura) * 2 = resultado
+
+- Saída:
+    Resultado do cálculo.
+
